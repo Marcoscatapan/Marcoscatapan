@@ -9,10 +9,10 @@ Desenvolvimento Educacional), onde desenvolvo soluções para Análise de Dados,
 🎓 Formação Acadêmica
 
 - Tecnólogo em Processos Gerenciais - UNINTER
-- Cursando Bacharelado em Ciências da Computação — ETEP
-- Cursando Pós-graduação em Ciências de Dados e Big Data — FAMART
-- Cursando Pós-graduação em Business Intelligence e Analytics — FAMART
-- Cursando Pós-graduação em Tecnologia da Informação — FAMART
+- Cursando Bacharelado em Ciências da Computação - ETEP
+- Cursando Pós-graduação em Ciências de Dados e Big Data - FAMART
+- Cursando Pós-graduação em Business Intelligence e Analytics - FAMART
+- Cursando Pós-graduação em Tecnologia da Informação - FAMART
 
 📚 Idiomas 
 
