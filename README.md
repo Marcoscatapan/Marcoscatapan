@@ -2,7 +2,7 @@
 
 💡 Analista de Dados | Business Intelligence | ETL | Power BI |
 
-Atualmente atuo como estagiário de Tecnologia da Informação pela empresa Paraná Educação, lotado no FUNDEPAR (Instituto Paranaense de
+Atualmente atuo como estagiário de Tecnologia da Informação pela empresa Paraná Educação,estou lotado no FUNDEPAR (Instituto Paranaense de
 Desenvolvimento Educacional), onde desenvolvo soluções para Análise de Dados, processos ETL e criação de Dashboards personalizados, voltados para as demandas da alimentação pública escolar no Paraná. Meu foco está em otimizar processos e apoiar a tomada de decisões através de Business Intelligence, utilizando ferramentas como Power BI.
 
 
