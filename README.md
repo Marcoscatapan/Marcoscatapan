@@ -31,7 +31,8 @@ Desenvolvimento Educacional), onde desenvolvo soluções para Análise de Dados,
 - SQL
 - NoSQL
 - Inteligência Artificial
-- Dashboards Personalizados
+- Dashboards
+- GitHub
   
 📧 Contato
 
