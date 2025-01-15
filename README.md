@@ -44,7 +44,5 @@ Conecte-se comigo nas redes sociais!
 
 [![Youtube](https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@marcoscatapan/)
 
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
 
-[![Kwai](https://img.shields.io/badge/-Kwai-FF6600?style=for-the-badge&logo=kwai&logoColor=white)](https://www.kwai.com/)
 
