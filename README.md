@@ -43,3 +43,5 @@ Conecte-se comigo nas redes sociais!
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
 
 [![Youtube](https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@marcoscatapan/)
+
+[![Kwai](https://img.shields.io/badge/-Kwai-%23E4405F?style=for-the-badge&logoKwai&logoColor=white)](https://v.kwai.com/u/@marcosvcatapan/)
