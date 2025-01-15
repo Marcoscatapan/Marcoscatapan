@@ -42,4 +42,4 @@ Conecte-se comigo nas redes sociais!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
 
-
+[![Facebook](https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/marcos.catapan/)
