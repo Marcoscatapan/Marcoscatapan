@@ -1,4 +1,4 @@
-# Marcos Catapan
+um# Marcos Catapan
 
 💡 Analista de Dados | Business Intelligence | ETL | Power BI |
 
@@ -47,3 +47,6 @@ Conecte-se comigo nas redes sociais!
 [![Kwai](https://img.shields.io/badge/-Kwai-%23E4405F?style=for-the-badge&logoKwai&logoColor=white)](https://v.kwai.com/u/@marcosvcatapan/)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
+
+[![Kwai](https://img.shields.io/badge/-Kwai-FF6600?style=for-the-badge&logo=kwai&logoColor=white)](https://www.kwai.com/)
+
