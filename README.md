@@ -1,4 +1,4 @@
-um# Marcos Catapan
+# Marcos Catapan
 
 💡 Analista de Dados | Business Intelligence | ETL | Power BI |
 
