@@ -40,7 +40,7 @@ Conecte-se comigo nas redes sociais!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscatapan/)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
 
 [![Youtube](https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@marcoscatapan/)
 
