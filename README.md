@@ -2,9 +2,8 @@
 
 💡 Analista de Dados | Business Intelligence | ETL | Power BI | Python | SQL | NoSQL|
 
-Atualmente atuo como estagiário de Tecnologia da Informação pela empresa Paraná Educação, estou lotado no FUNDEPAR (Instituto Paranaense de
-Desenvolvimento Educacional), onde desenvolvo soluções para Análise de Dados, processos ETL e criação de Dashboards personalizados, voltados para as demandas da alimentação pública escolar no Paraná. Meu foco está em otimizar processos e apoiar a tomada de decisões através de Business Intelligence, utilizando ferramentas como Power BI.
-
+Comecei minha carreira em dados atuando como estagiário de Tecnologia da Informação pela empresa Paraná Educação, prestava serviço ao  FUNDEPAR (Instituto Paranaense de Desenvolvimento Educacional), onde desenvolvi soluções para Análise de Dados, processos ETL e criação de Dashboards personalizados, voltados para as demandas da Alimentação Escolar na rede Estadual no Paraná. Meu foco estava em otimizar processos e apoiar a tomada de decisões através de Business Intelligence, utilizando ferramentas como Power BI.
+Atualmente estou como Auxiliar de Business Intelligence na Digix, onde pretendo dar o meu melhor e agregar muito conhecimento e bagagem em minha trajetória, e com muito orgulho por poder contar com o auxílio dos melhores profissionais da área na equipe em que trabalho.
 
 🎓 Formação Acadêmica
 
