@@ -1,6 +1,6 @@
 # Marcos Catapan
 
-💡 Analista de Dados | Business Intelligence | ETL | Power BI |
+💡 Analista de Dados | Business Intelligence | ETL | Power BI | Python | SQL | NoSQL|
 
 Atualmente atuo como estagiário de Tecnologia da Informação pela empresa Paraná Educação, estou lotado no FUNDEPAR (Instituto Paranaense de
 Desenvolvimento Educacional), onde desenvolvo soluções para Análise de Dados, processos ETL e criação de Dashboards personalizados, voltados para as demandas da alimentação pública escolar no Paraná. Meu foco está em otimizar processos e apoiar a tomada de decisões através de Business Intelligence, utilizando ferramentas como Power BI.
@@ -42,7 +42,7 @@ Conecte-se comigo nas redes sociais!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
 
-[![Youtube](https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@marcoscatapan/)
+
 
 
 
